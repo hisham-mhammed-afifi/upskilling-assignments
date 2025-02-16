@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced.MediaPlayer", "Adv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced.CustomerNotifications", "Advanced.CustomerNotifications\Advanced.CustomerNotifications.csproj", "{C31BA1DF-D28C-415E-B6CC-148F314F3CDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced.Generics", "Advanced.Generics\Advanced.Generics.csproj", "{0B8300ED-EE70-47BE-8E57-D71B315D8705}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C31BA1DF-D28C-415E-B6CC-148F314F3CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C31BA1DF-D28C-415E-B6CC-148F314F3CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C31BA1DF-D28C-415E-B6CC-148F314F3CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8300ED-EE70-47BE-8E57-D71B315D8705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8300ED-EE70-47BE-8E57-D71B315D8705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8300ED-EE70-47BE-8E57-D71B315D8705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8300ED-EE70-47BE-8E57-D71B315D8705}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
