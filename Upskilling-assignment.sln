@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced.CustomerNotificati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced.Generics", "Advanced.Generics\Advanced.Generics.csproj", "{0B8300ED-EE70-47BE-8E57-D71B315D8705}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced.Collections", "Advanced.Collections\Advanced.Collections.csproj", "{069D6427-868B-4380-8252-3938AFF83E81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{0B8300ED-EE70-47BE-8E57-D71B315D8705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B8300ED-EE70-47BE-8E57-D71B315D8705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B8300ED-EE70-47BE-8E57-D71B315D8705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069D6427-868B-4380-8252-3938AFF83E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069D6427-868B-4380-8252-3938AFF83E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069D6427-868B-4380-8252-3938AFF83E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069D6427-868B-4380-8252-3938AFF83E81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
